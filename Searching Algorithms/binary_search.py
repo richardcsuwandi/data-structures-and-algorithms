@@ -1,5 +1,3 @@
-"""Binary Search Algorithm on Array"""
-
 def binary_search(arr, target, low, high):
     if low > high:
         print('Cannot find the target number!')
