@@ -1,5 +1,3 @@
-"""Quick Sort Algorithm on Array"""
-
 def quick_sort(arr):
     length = len(arr)
     if length <= 1:
