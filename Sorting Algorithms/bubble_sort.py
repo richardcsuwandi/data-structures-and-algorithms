@@ -1,5 +1,3 @@
-"""Bubble Sort Algorithm on Array"""
-
 def bubble_sort(arr):
     arrLength = len(arr)
     while arrLength > 0:
